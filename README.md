@@ -1,2 +1,2 @@
 # Criação e aprimoramento de Sistema Bancário.
-Repositório para meus primeiros projetos.
+Implementação de funcionalidades básicas como: saque, depósito, extrato.
